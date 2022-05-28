@@ -5,4 +5,5 @@ export interface EmailJsConfig {
   secure: boolean;
   user: string;
   password: string;
+  confirmpasswpord: string
 }
